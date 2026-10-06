@@ -1,0 +1,30 @@
+{
+  "name": "riyadvi-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Riyadvi Software Technologies Corporate Website Revamp",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "db:init": "node src/config/initDb.js"
+  },
+  "keywords": [
+    "express",
+    "postgresql",
+    "rest-api",
+    "riyadvi"
+  ],
+  "author": "Riyadvi Software Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

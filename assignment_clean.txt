@@ -1,0 +1,197 @@
+=== PAGE 1 ===
+FULL STACK DEVELOPER – INTERVIEW ASSIGNMENT Project: Revamp Riyadvi Software Technologies Website Project Type Dynamic Multi-Page Website + 3D Interactive Experience + Full-Stack Development + AI-Assisted Development 
+
+## 1. PROJECT OVERVIEW R
+iyadvi Software Technologies is looking to revamp its existing corporate website into a premium, modern, dynamic and interactive digital experience . The objective of this assignment is to evaluate the candidate's ability to combine: ● Full-stack web development ● Modern UI/UX ● 3D web technologies ● Advanced animations ● AI-assisted development ● Dynamic content architecture ● Backend/API development ● Database integration ● Responsive development ● Performance optimization Existing Website Use the existing Riyadvi website as a reference for company information and content: www.riyadvisoftwaretechnologies.com The candidate may improve, restructure and rewrite the presentation of the content where appropriate. 
+
+## 2. IMPORTANT 
+– THIS IS NOT A LANDING PAGE This assignment is NOT a single-page landing-page project. The candidate must build a complete dynamic corporate website with: ● Multiple pages ● Proper routing
+
+=== PAGE 2 ===
+● Reusable components ● Dynamic content ● Individual service pages ● Individual portfolio case studies ● Individual blog pages ● Individual career/job pages ● Backend APIs ● Database integration ● Functional forms ● Lead management ● Responsive design The homepage is only one part of the website. The final result should resemble a real production website architecture that can continue to grow after development. 
+
+## 3. PRIMARY BUSINESS OBJECTIVE T
+he website should position Riyadvi as: A Technology & Digital Solutions Partner – not simply a software development vendor. The website should communicate: ● Technology expertise ● Innovation ● Business understanding ● Digital transformation ● Design excellence ● Long-term partnership ● Business growth The website should encourage visitors to: ● Book a consultation ● Contact Riyadvi ● Request a quote ● Download a lead magnet ● Submit a Business Health Checkup ● Explore services ● View portfolio/case studies
+
+=== PAGE 3 ===
+
+
+## 4. DESIGN DIRECTION T
+he overall experience should be: Premium + Futuristic + Interactive + 3D + Professional Avoid a generic corporate website. The candidate should create a distinctive visual language using: ● 3D objects ● Depth ● Parallax ● Interactive elements ● Scroll-based storytelling ● Cinematic transitions ● Smooth scrolling ● Advanced typography ● Micro-interactions ● Glass / metallic surfaces where appropriate ● Particles / digital effects where appropriate The design should feel like a modern technology company , while remaining professional and usable. Inspiration Candidates may research modern digital experiences and resources such as: ● Turing ● InVision ● CRED ● getlayers.ai ● threeui.com ● Aceternity UI ● Magic UI ● Shadcn/UI ● Three.js examples ● React Three Fiber ecosystem These are references for inspiration, not templates to copy. 
+
+## 5. BRANDING P
+rimary Colors Gold: #D4AF37
+
+=== PAGE 4 ===
+Black: #000000 The candidate may introduce suitable neutral shades, gradients and supporting colors where required for accessibility and visual hierarchy. Fonts Use one or more of: ● Inter ● Poppins ● Montserrat Tone ● Premium ● Professional ● Innovative ● Trustworthy ● Technology-focused ● Business-oriented 6. AI-ASSISTED DEVELOPMENT – MANDATORY One of the main objectives of this assignment is to evaluate the candidate's ability to use AI effectively as part of a modern development workflow . Candidates are encouraged to use AI tools such as: ● ChatGPT ● Claude ● Gemini ● Cursor ● GitHub Copilot ● Lovable ● v0 ● Bolt ● Replit ● Midjourney ● Leonardo AI ● Adobe Firefly ● Other relevant AI development/design tools The candidate should use AI to accelerate development, research, design exploration, coding, debugging, asset generation or documentation. However:
+
+=== PAGE 5 ===
+The candidate must understand and customize the generated output. We are NOT evaluating: "Who can generate a website using AI?" We are evaluating: "Who can use AI effectively while still understanding, controlling, debugging and improving the final product?" 
+
+## 7. AI USAGE DOCUMENTATION T
+he README must contain an: AI Tools Used section. For each major AI tool used, explain: ● Tool name ● Purpose ● Example prompt ● What was generated ● What was manually changed ● Why the tool was selected Example: AI Tool: Claude Purpose: Generate an initial React Three Fiber concept for the hero section. Prompt: Create an interactive 3D digital ecosystem representing technology and business transformation. Manual Work: The generated implementation was modified, optimized for performance and integrated into the Riyadvi design system.
+
+=== PAGE 6 ===
+8. 3D / ADVANCED ANIMATION – MANDATORY The website must contain meaningful 3D and advanced animation experiences . At least 4 technologies from the following list should be meaningfully implemented: Technology Possible Use Three.js Real-time 3D React Three Fiber Three.js inside React Drei React Three Fiber helpers GSAP Advanced animation/timelines GSAP ScrollTrigger Scroll-based storytelling Lenis Smooth scrolling Rive Interactive animations Lottie / dotLottie Lightweight animated illustrations Motion UI/micro animations Anime.js Lightweight animation Theatre.js Complex animation timelines Blender Custom 3D models/animations Spline Interactive 3D experiences The candidate does not need to use every technology. Important Installing a library is not considered implementation. The selected technologies must visibly contribute to the website experience. 9. 3D SHOULD NOT BE LIMITED TO THE HERO The 3D experience should be incorporated throughout the website where appropriate. At least three major sections/pages should contain meaningful interactive visual experiences.
+
+=== PAGE 7 ===
+Examples: Homepage Interactive 3D technology ecosystem Services 3D visualization for individual services Portfolio Interactive 3D case-study presentation About Interactive company timeline Technology 3D technology ecosystem The candidate can propose their own creative implementation. 
+
+## 10. WEBSITE STRUCTURE T
+he minimum required structure is: / ├── Home ├── Services │ ├── Web Development │ ├── App Development │ ├── Digital Marketing │ ├── AR / VR │ ├── 3D Modeling │ └── UI/UX Design │ ├── Portfolio │ └── Individual Case Studies │ ├── About │ ├── Blog │ └── Individual Blog Articles │ ├── Careers
+
+=== PAGE 8 ===
+│ └── Individual Job Details │ ├── Contact │ ├── Business Health Checkup │ └── Software Project Planning Guide 
+
+## 11. HOMEPAGE T
+he homepage should be the primary showcase of the candidate's design and technical ability. Hero Section Headline: Custom Software & Digital Solutions to Grow Your Business Supporting text: Web & App Development, UI/UX Design, and Business Strategy – all tailored to your needs. Primary CTA: Book a Free Consultation Secondary CTA: Explore Our Solutions 3D Hero Create an interactive 3D experience representing: ● Technology ● Digital transformation ● Connected systems ● Business growth ● Innovation Possible concepts: ● Digital ecosystem ● Connected 3D nodes ● Interactive digital sphere ● 3D data network ● Abstract technology structure
+
+=== PAGE 9 ===
+● Metallic digital object ● Software architecture visualization The candidate can create the asset using: ● Three.js ● React Three Fiber ● Blender ● Spline ● AI-generated assets ● Other appropriate technologies The hero should respond appropriately to interaction such as: ● Cursor movement ● Hover ● Scroll ● Device movement where appropriate 
+
+## 12. DIGITAL TRANSFORMATION SECTION C
+reate an interactive section explaining Riyadvi's approach. For example: Business Challenge ↓ Strategy ↓ Design ↓ Technology ↓ Launch ↓ Growth Use scroll-based animation or interactive storytelling. Recommended technologies: ● GSAP ● ScrollTrigger ● Lenis ● Motion ● Three.js
+
+=== PAGE 10 ===
+
+
+## 13. SERVICES D
+isplay the six core services: 1. Web Development 2. App Development 3. Digital Marketing 
+
+## 4. AR 
+/ VR 5. 3D Modeling 6. UI/UX Design Do not make these ordinary static cards. Create an interactive visual treatment for each service. Examples: Web Development Interactive browser / web environment App Development 3D smartphone/device Digital Marketing Animated data/growth visualization AR / VR 3D immersive environment 3D Modeling Interactive rotatable 3D object UI/UX Floating interface elements Each service should link to its own service page.
+
+=== PAGE 11 ===
+
+
+## 14. TECHNOLOGY ECOSYSTEM C
+reate an interactive section showcasing technologies. Examples: ● React ● Next.js ● Node.js ● MongoDB ● MySQL ● JavaScript ● Three.js ● React Three Fiber ● WordPress ● Other relevant technologies Possible implementations: ● 3D technology constellation ● Orbiting ecosystem ● Interactive sphere ● Animated technology network ● Floating logos 
+
+## 15. WHY RIYADVI I
+nclude: Since 2021 Show the company journey using an interactive timeline. Business Health Checkup Explain Riyadvi's approach to identifying digital/business improvement opportunities. End-to-End Solutions Show the complete journey: Strategy ↓ Design ↓ Development ↓ Marketing
+
+=== PAGE 12 ===
+↓ Optimization ↓ Growth 
+
+## 16. BUSINESS HEALTH CHECKUP C
+reate a dedicated lead-generation experience. Page: /business-health-checkup Headline: Is Your Business Ready for Its Next Digital Growth Stage? Include an interactive multi-step form. Possible steps: 1. Business Information 2. Website & Digital Presence 3. Marketing 4. Technology 5. Business Challenges 6. Submission The submitted information must be sent to the backend and stored in the database. 
+
+## 17. LEAD MAGNET C
+reate a dedicated page: /software-project-planning-guide Title: Download Software Project Planning Guide Collect: ● Name ● Company ● Email
+
+=== PAGE 13 ===
+● Phone On submission: ● Validate the form ● Send data to backend ● Store lead ● Provide download/access confirmation 
+
+## 18. PORTFOLIO P
+age: /portfolio Create a premium dynamic portfolio experience. Possible projects: ● Puratap ● Wanaromah Perfumers ● Laxmi Astro AI ● Tony & Guy ● Studio11 ● Sivam Physio Care ● Pearl Housing ● Nugenica Biotech Lab ● VisDoc ● Cube Dental Portfolio cards should lead to dynamic case studies. Example: /portfolio/puratap /portfolio/wanaromah /portfolio/laxmi-astro-ai Each case study should contain: ● Client ● Industry ● Challenge ● Solution ● Technologies ● Results ● Visuals
+
+=== PAGE 14 ===
+● Related services At least one case study should use an interactive/3D presentation. 
+
+## 19. SERVICE PAGES C
+reate individual dynamic service pages. Required: /services/web-development /services/app-development /services/digital-marketing /services/ar-vr /services/3d-modeling /services/ui-ux-design Each page should contain: ● Interactive hero ● Problem ● Solution ● Key features ● Industry use cases ● Technology stack ● Process ● Related portfolio ● CTA CTA: Get a Quote Use a reusable service-page architecture rather than creating six unrelated pages. 
+
+## 20. ABOUT PAGE P
+age: /about Include: ● Company story
+
+=== PAGE 15 ===
+● Founded in 2021 ● Vision ● Mission ● Values ● Approach ● Awards/recognition ● Company milestones ● Optional team Create an engaging visual presentation using animation, timeline or 3D elements. 
+
+## 21. BLOG P
+age: /blog Individual article: /blog/[slug] The blog must be structured dynamically. Include: ● Featured article ● Categories ● Tags ● Search ● Article cards ● Individual article pages ● Related articles The architecture should allow future integration with: ● Strapi ● Sanity ● WordPress ● Database ● Other CMS/API 
+
+## 22. CAREERS P
+age:
+
+=== PAGE 16 ===
+/careers Individual job: /careers/[job-slug] Include: ● Job listings ● Department filters ● Designation filters ● Experience filters ● Job details ● Responsibilities ● Requirements ● Apply button Application form: ● Name ● Email ● Phone ● Position ● Resume ● Message Application data must be handled by the backend. 
+
+## 23. CONTACT P
+age: /contact Include: ● Contact form ● Name ● Email ● Phone ● Company ● Requirement ● Message Integrations: ● Backend API ● Database
+
+=== PAGE 17 ===
+● Email notification ● WhatsApp ● Calendly Optional: ● Location/map 
+
+## 24. DYNAMIC CONTENT ARCHITECTURE T
+he website should be built using reusable structures. For example: Service Data ↓ Reusable Service Template ↓ Web Development App Development Digital Marketing AR/VR 3D Modeling UI/UX Similarly: Portfolio Data ↓ Reusable Case Study Template ↓ Project A Project B Project C And: Job Data ↓ Reusable Job Template ↓ Job A Job B Job C
+
+=== PAGE 18 ===
+Avoid creating completely separate hardcoded components for every item. 
+
+## 25. BACKEND T
+he project must include a functional backend. Preferred: Node.js + Express.js Other acceptable options: ● Laravel ● Django 
+
+## 26. DATABASE U
+se one: ● MongoDB ● PostgreSQL ● MySQL At minimum, store: Contact Enquiries Consultation Requests Business Health Checkup Leads Lead Magnet Leads Career Applications Where practical, structure: ● Services ● Portfolio ● Blog ● Careers as dynamic data models or API-ready structures.
+
+=== PAGE 19 ===
+
+
+## 27. API REQUIREMENTS E
+xample endpoints: POST /api/contact POST /api/consultation POST /api/health-checkup POST /api/lead-magnet POST /api/applications The API should include: ● Validation ● Error handling ● Proper response structure ● Environment variables for sensitive configuration 
+
+## 28. ADMIN DASHBOARD A 
+basic admin dashboard is strongly preferred. The dashboard should allow viewing: Dashboard ● Total enquiries ● Consultation requests ● Health Checkup leads ● Lead Magnet leads ● Job applications Enquiries Show: ● Name ● Email ● Phone ● Company ● Requirement
+
+=== PAGE 20 ===
+● Date ● Status Careers View submitted applications. The dashboard does not need to be a full enterprise CRM. The objective is to demonstrate full-stack understanding. 
+
+## 29. RESPONSIVE DESIGN T
+he website must work properly on: ● Desktop ● Laptop ● Tablet ● Mobile The 3D experience must have a mobile strategy. If a 3D scene is too heavy for mobile, implement: ● Reduced rendering ● Reduced animation ● Lightweight alternative ● Static fallback ● Device-specific optimization 
+
+## 30. PERFORMANCE T
+he candidate must consider: ● Lazy loading ● Code splitting ● Image optimization ● 3D asset optimization ● Texture optimization ● Font optimization ● Animation performance ● Mobile GPU limitations ● Lighthouse performance The website should not sacrifice usability for visual effects.
+
+=== PAGE 21 ===
+
+
+## 31. TECHNOLOGY STACK F
+rontend Preferred: ● React.js / Next.js ● TailwindCSS / Styled Components Backend ● Node.js + Express ● Laravel ● Django Database ● MongoDB ● PostgreSQL ● MySQL Deployment Frontend: ● Vercel preferred Backend: ● Render ● Railway ● Other suitable platform 
+
+## 32. GIT REQUIREMENTS P
+rovide a GitHub repository containing: /frontend /backend /README.md Use meaningful commit history. Examples:
+
+=== PAGE 22 ===
+feat: implement interactive 3D hero feat: create dynamic service pages feat: implement portfolio case study architecture feat: add contact API feat: integrate MongoDB feat: add business health checkup perf: optimize 3D assets fix: improve mobile navigation Avoid submitting the entire project using only: Initial commit 
+
+## 33. README REQUIREMENTS T
+he README must contain: ● Project overview ● Features ● Tech stack ● Installation instructions ● Environment variables ● Database setup ● API endpoints ● Deployment instructions ● AI tools used ● 3D libraries used ● Animation libraries used ● Third-party assets ● Performance optimization ● Known limitations ● Future improvements 
+
+## 34. DEPLOYMENT A 
+live deployment is mandatory . Provide: Frontend Vercel deployment URL Backend
+
+=== PAGE 23 ===
+Live backend/API URL The evaluator must be able to access the project without running it locally. 
+
+## 35. TIME LIMIT D
+evelopment Time: 3–5 Days The candidate is not expected to build a huge enterprise website within this time. The objective is to demonstrate quality, technical ability and decision-making . Priority Order If time becomes limited, prioritize: 1. Homepage 2. 3D Hero 3. Services + dynamic service architecture 4. Portfolio + dynamic case study architecture 5. Lead-generation functionality 6. Backend + database 7. Responsive experience 8. Additional pages Blog and Careers may contain limited sample content, but the architecture should be scalable. 
+
+## 36. WHAT WE ARE NOT LOOKING FOR D
+o NOT submit: ● A single landing page ● One long scrolling page ● Static service cards without individual pages ● Static portfolio cards without case studies ● Fake contact forms ● Frontend-only implementation ● Random 3D effects with no purpose ● Excessive animations that make the site slow ● Unmodified AI-generated templates ● Copy-pasted websites ● A project with no meaningful Git history
+
+=== PAGE 24 ===
+
+
+## 37. WHAT WE ARE LOOKING FOR W
+e are looking for a developer who can combine: ● AI ● 3D ● Animation ● UI/UX ● Frontend ● Backend ● Database ● Business Understanding into one cohesive website. The candidate should demonstrate the ability to: ● Research modern technologies ● Select appropriate libraries ● Use AI effectively ● Understand AI-generated code ● Build reusable components ● Create dynamic pages ● Build APIs ● Connect databases ● Optimize 3D experiences ● Build responsive interfaces ● Deploy a working application 
+
+## 38. FINAL INTERVIEW DEMONSTRATION A
+fter submission, the candidate should be prepared to give a 10–15 minute technical walkthrough . The candidate should explain: 1. Design Why was this design direction selected? 2. 3D How was the 3D experience implemented? 
+
+## 3. AI W
+hich AI tools were used and why?
+
+=== PAGE 25 ===
+4. Development Which parts were generated using AI and which were manually developed? 5. Architecture How are the frontend, backend and database connected? 6. Dynamic Content How would the company add another service, project, blog article or job without rebuilding the page? 7. Performance How was the 3D experience optimized? 8. Challenges What were the biggest technical challenges? 9. Production What would you improve if you had another 1–2 weeks? 
+
+## 39. EVALUATION CRITERIA A
+rea Weight 3D & Interactive Experience 30% AI-Assisted Development 15% UI/UX & Visual Quality 15% Frontend Architecture 10% Backend & Database 10% Performance & Responsiveness 10% Git, Documentation & Deployment 10% Total 100% 3D & Interactive Experience – 30%
+
+=== PAGE 26 ===
+Evaluate: ● Quality of 3D ● Meaningful implementation ● Interactivity ● Animation ● Creativity ● Performance AI-Assisted Development – 15% Evaluate: ● AI tool selection ● Prompt quality ● Ability to modify generated code ● Debugging ● Understanding of AI-generated output ● Appropriate use of AI UI/UX – 15% Evaluate: ● Visual quality ● Navigation ● User experience ● Responsive design ● Conversion flow ● Consistency Frontend – 10% Evaluate: ● React/Next.js ● Component architecture ● Reusability ● Routing ● State management ● Code quality Backend – 10% Evaluate: ● API architecture ● Database integration ● Validation ● Error handling
+
+=== PAGE 27 ===
+● Form processing Performance – 10% Evaluate: ● Page loading ● 3D optimization ● Asset optimization ● Mobile performance ● Animation performance Git / Documentation / Deployment – 10% Evaluate: ● Commit history ● README ● Environment setup ● Deployment ● AI documentation 
+
+## 40. FINAL EXPECTATION T
+he final website should not feel like an interview assignment. It should feel like the beginning of a real premium Riyadvi corporate website . The final experience should communicate: Riyadvi is a technology and digital solutions partner that combines technology, design, innovation and business thinking to help businesses grow. The core challenge is to demonstrate: AI + 3D + Animation + Full-Stack Development + Dynamic Architecture + Premium UI/UX within a practical 3–5 days development window.
