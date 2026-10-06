@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react'
 import Container from '../components/common/Container'
+import API_BASE_URL from '../config/api'
 
-const API_BASE_URL = 'http://localhost:5000/api'
+const API_URL = `${API_BASE_URL}/api`
 
 const initialStats = {
   contacts: 0,
@@ -54,11 +55,11 @@ export default function AdminDashboardPage() {
           leadMagnetResponse,
           applicationsResponse,
         ] = await Promise.all([
-          fetch(`${API_BASE_URL}/contact`),
-          fetch(`${API_BASE_URL}/consultation`),
-          fetch(`${API_BASE_URL}/health-checkup`),
-          fetch(`${API_BASE_URL}/lead-magnet`),
-          fetch(`${API_BASE_URL}/applications`),
+          fetch(`${API_URL}/contact`),
+          fetch(`${API_URL}/consultation`),
+          fetch(`${API_URL}/health-checkup`),
+          fetch(`${API_URL}/lead-magnet`),
+          fetch(`${API_URL}/applications`),
         ])
 
         const responses = [
@@ -122,7 +123,7 @@ export default function AdminDashboardPage() {
 
         setError(
           dashboardError.message ||
-          'Failed to load dashboard data.'
+            'Failed to load dashboard data.'
         )
       } finally {
         setLoading(false)
@@ -171,9 +172,7 @@ export default function AdminDashboardPage() {
               </p>
 
               <p className="mt-4 text-3xl font-semibold text-white">
-                {loading
-                  ? '—'
-                  : stats[card.key]}
+                {loading ? '—' : stats[card.key]}
               </p>
             </div>
           ))}
